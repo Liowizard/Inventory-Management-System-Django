@@ -127,5 +127,3 @@ curl --silent --location --request PUT 'http://127.0.0.1:8000/api/items/1/' --he
 curl --silent --location --request DELETE 'http://127.0.0.1:8000/api/items/1/' --header 'Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbl90eXBlIjoiYWNjZXNzIiwiZXhwIjoxNzI3NDI2NjE1LCJpYXQiOjE3Mjc0MjMwMTUsImp0aSI6IjFhZDA0Yjk5NDllNDRjNTRhMmMzZDczNDkzYzZlYTAwIiwidXNlcl9pZCI6MX0.BxjhT9LPQkEGfmn08-6hMCrb7b-ZlZJ6bCQOMrgpxOg' --header 'Content-Type: application/json'
 ```
 
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
