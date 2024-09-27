@@ -9,6 +9,7 @@ psycopg2-binary = "*"
 djangorestframework-simplejwt = "*"
 redis = "*"
 python-dotenv = "*"
+django-redis = "*"
 
 [dev-packages]
 
